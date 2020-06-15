@@ -3,7 +3,7 @@
 
 void main()
 {
-  char ch = "helloo everyone";
+  char ch = "hello everyone";
   for(int i=0;i<10;i++)
   {
     cout<<ch;
